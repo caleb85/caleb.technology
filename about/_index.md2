@@ -1,0 +1,15 @@
+---
+title: "About Me"
+date: 2023-01-23
+description: "Information about me"
+summary: "Learn more abou"
+tags: ["welcome", "about"]
+---
+
+### Who am I?
+
+I am a tech enginner currently living in Cincinnati, Ohio.
+
+
+### My hardware
+My current home network is mostly linux based, with a few hypervisers thrown in. M router is currently Openwrt virtualized under

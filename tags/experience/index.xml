@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>experience on caleb.technology</title>
+    <link>https://caleb.technology/tags/experience/</link>
+    <description>Recent content in experience on caleb.technology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ :thinking_face: Information wants to be free</copyright>
+    <lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://caleb.technology/tags/experience/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Resume</title>
+      <link>https://caleb.technology/resume/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://caleb.technology/resume/</guid>
+      <description>My current resume last upodated 1/2023</description>
+    </item>
+    
+  </channel>
+</rss>

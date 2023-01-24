@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on caleb.technology</title>
+    <link>https://caleb.technology/posts/</link>
+    <description>Recent content in Posts on caleb.technology</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>Copy, _right?_ :thinking_face: Information wants to be free</copyright>
+    <lastBuildDate>Sun, 22 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://caleb.technology/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>This is the third post homelab stuff etc etc</title>
+      <link>https://caleb.technology/posts/other-blog-post2/</link>
+      <pubDate>Sun, 22 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://caleb.technology/posts/other-blog-post2/</guid>
+      <description>Learn more about me and why I am starting this blog.</description>
+    </item>
+    
+    <item>
+      <title>Second blog post</title>
+      <link>https://caleb.technology/posts/other-blog-post/</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://caleb.technology/posts/other-blog-post/</guid>
+      <description>Learn more about me and why I am starting this blog.</description>
+    </item>
+    
+    <item>
+      <title>My First Blog Post</title>
+      <link>https://caleb.technology/posts/my-first-post/</link>
+      <pubDate>Tue, 25 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://caleb.technology/posts/my-first-post/</guid>
+      <description>Learn more about me and why I am starting this blog.</description>
+    </item>
+    
+  </channel>
+</rss>
